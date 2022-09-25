@@ -1,5 +1,6 @@
 # A-predictive-model-for-forecasting-demand-and-supply-information-of-TOP-crops-
-It is predictive model which is used for forecasting demand and supply information of TOP crops using machine learning  
+It is predictive model which is used for forecasting demand and supply information of TOP crops using machine learning
+  
 Agriculture is the biggest industry in India and it generates a significant 
 number of employments in the country. The features of weather, geography, 
 and soil of India are diverse. As a consequence, a range of crops are grown 
